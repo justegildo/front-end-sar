@@ -1,0 +1,26 @@
+{
+    "nav": {
+        "home": "Tableau de bord",
+        "singleMenuItem": "Single menu item",
+        "collapseMenu": {
+            "collapseMenu": "Paramètres",
+            "item1": "Exportateur",
+            "item2": "Importateur",
+            "item3": "Marque",
+            "item4": "Client final",
+            "item5": "Modèle",
+            "item6": "Opérateur",
+            "item7": "Pays"
+
+        },
+        "groupMenu": {
+            "groupMenu": "Group menu",
+            "single": "Group single menu item",
+            "collapse": {
+                "collapse": "Group collapse menu",
+                "item1": "Group collapse menu item 1",
+                "item2": "Group collapse menu item 2"
+            }
+        }
+    }
+}
